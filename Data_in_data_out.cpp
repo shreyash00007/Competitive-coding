@@ -2,8 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-ifstream f("data2.in");
-ofstream g("data.output");
+ifstream f("data.in"); /// Its is the data in(input file) file 
+ofstream g("data.output"); /// Its is the data out(Output file) file
 
 int main()
 {
