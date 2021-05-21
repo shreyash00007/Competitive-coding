@@ -2,7 +2,7 @@
 
 using namespace std;
 int a = 5;
-void printing()
+void printing() //Printing funtions declared 
 {
 cout<<a;
 }
