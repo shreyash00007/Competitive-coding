@@ -1,15 +1,13 @@
 #include <iostream>
-#include <bits/stdc++.h>
+
 using namespace std;
-
-ifstream f("data2.in");
-ofstream g("data.output");
-
+int a = 5;
+void printing()
+{
+cout<<a;
+}
 int main()
 {
-    int a, b, sum;
-     f>>a>>b;
-     sum = a + b;
-     g<<sum;
+    printing();
     return 0;
 }
