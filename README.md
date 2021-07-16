@@ -17,4 +17,4 @@ This for My Competitive coding
 >[Binary Search](https://github.com/shreyash00007/Competitive-coding/blob/main/BinarySearch.cpp)
 
 ### Calculator 
->[Calculator]()
+>[Calculator](https://github.com/shreyash00007/Competitive-coding/blob/main/Calculator_useing_data_in_data_out.cpp)
