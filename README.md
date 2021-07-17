@@ -18,3 +18,6 @@ This for My Competitive coding
 
 ### Calculator 
 >[Calculator](https://github.com/shreyash00007/Competitive-coding/blob/main/Calculator_useing_data_in_data_out.cpp)
+
+### Cubic Root
+>[Cubic Root]()
