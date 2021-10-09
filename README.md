@@ -1,5 +1,5 @@
 # Competitive-coding
-This is Competitive coding examples
+This are some basic Competitive coding examples
 
 ### Data in Data out
 >[Data in Data out]()
