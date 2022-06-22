@@ -1,7 +1,7 @@
 # Competitive-coding
 This are some basic Competitive coding problems -
 
-### Data in Data out
+### Data in Data out-
 >[Data in Data out]()
 
 ### Global and Local
